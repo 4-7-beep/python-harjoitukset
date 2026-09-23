@@ -1,3 +1,3 @@
-Autiosaari
+Selviytyjä
 
 Arttu Karinluoma

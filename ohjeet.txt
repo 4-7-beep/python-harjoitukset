@@ -1,0 +1,2 @@
+-Pelissä tulee vastaan erilaisia tilanteita ja saat vaihtoehdot, mitä tilanteessa voi tehdä. Tekemäsi valinnat voivat vaikuttaa siihen, miten tilanne etenee. 
+-Pelin voi tallentaa, jotta pääset jatkamaan sitä samasta kohtaa seuraavalla kerralla. Käytä samaa käyttäjänimeä.

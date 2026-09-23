@@ -1,48 +1,6 @@
-#rahat = float(input("Anna rahamäärä: "))
-#if rahat > 5:
-    #print("Voit ostaa latten")
+"Kirjoita ohjelma, joka kysyy kalastajalta kuhan pituuden senttimetreinä. Jos kuha on alamittainen, ohjelma käskee laskea kuhan takaisin järveen ilmoittaen samalla käyttäjälle, montako senttiä alimmasta sallitusta pyyntimitasta puuttuu. Kuha on alamittainen, jos sen pituus on alle 37 cm."
 
-#if rahat == 5:
-    #print("Voit juuri ja juuri ostaa latten")
-
-
-
-#suutari = input("Anna suutarin nimi: ")
-#räätäli = input("Anna räätälin nimi: ")
-
-#if suutari==räätäli:
-    #print("Hyvänen aika! Suutari ja räätäli ovat kaimoja!")
-
-#if suutari != räätäli:
-    #print("Suutari ja räätäli eivät ole kaimoja.")
-
-
-
-#ikä = int(input("Anna ikä: "))
-#if 15 <= ikä < 18:
-#    paino = float(input("Anna paino (kg): "))
-#if ikä >= 18 or (ikä >= 15 and paino >= 55):
-#    print("Lääkkeen käyttö on sallittua.")
-#else:
-#    print("Lääkkeen käyttö on kielletty.")
-
-
-#ikä = int(input("Anna ikäsi: "))
-#if ikä >= 65:
-#    print("Olet eläkeiässä.")
-#elif ikä >= 18:
-#    print("Olet työiässä.")
-#elif ikä >= 7:
-#    print("Olet koululainen.")
-#else:
-#    print("Olet pikkulapsi.")
-
-
-kerrat = int(input("Montako kertaa tervehditään: "))
-tehdyt = 0
-while tehdyt < kerrat:
-    print("Hyvää huomenta")
-    tehdyt = tehdyt + 1
-
-
-
+kuhan_pituus = input("Anna kuhan pituus senttimetreinä: ")
+if kuhan_pituus != 37:
+    alimitta = 37 - float(kuhan_pituus)
+    print(f"Laske kuha takaisin, se on alimittainen " + str(alimitta)[:4] + " sentillä")

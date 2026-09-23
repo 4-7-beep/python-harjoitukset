@@ -1,0 +1,1 @@
+Tervetuloa peliin nimeltä Selviytyjä! Tämä on tekstiseikkailupeli, jossa valintasi vaikuttavat pelin kulkuun ja loppuun. Lisäohjeita saat kirjoittamalla: "Ohje".
