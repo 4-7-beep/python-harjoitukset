@@ -1,0 +1,25 @@
+{
+  "pelaaja": {
+    "nimi": "A",
+    "ikä": 25,
+    "taso": "Viidakko",
+    "esineet": [
+      "Kirves"
+    ]
+  },
+  "sijainti": {
+    "laskuri": 0,
+    "naru": false,
+    "siemen": false,
+    "tapahtumat": [
+      "käärme",
+      "sade",
+      "villisika",
+      "joki",
+      "salama",
+      "siemenet",
+      "heimo",
+      "lintu"
+    ]
+  }
+}
